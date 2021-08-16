@@ -18,3 +18,7 @@ https://www.youtube.com/watch?v=qz0aGYrrlhU
 
 link for Python
 https://www.youtube.com/watch?v=_uQrJ0TkZlc&vl=en 
+
+
+
+https://training.zuri.team 
